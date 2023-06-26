@@ -1,2 +1,5 @@
 # AI-for-Business
-This repository contains of projects from the concepts - 1. DecisionTreeClassifier, 2. NeuralNetworks, 3. SentimentalAnalysis
+This repository contains of projects from the concepts - 
+1. DecisionTreeClassifier- A decision tree classifier is a supervised machine learning algorithm that predicts the class or category of an input based on a series of decisions made using a tree-like structure. Imagine you want to build a model that predicts whether a fruit is an apple or an orange based on its features such as color, diameter, and texture. A decision tree classifier helps you make decisions at each step based on these features.
+2. NeuralNetworks- A neural network is a computational model inspired by the structure and functioning of the human brain. It consists of interconnected nodes, called neurons, organized in layers. Each neuron takes inputs, performs calculations, and produces an output. Neural networks are widely used for various machine learning tasks, including classification, regression, and pattern recognition.
+3. SentimentalAnalysis- Sentiment analysis, also known as opinion mining, is a technique used to determine the sentiment or opinion expressed in a piece of text. It aims to understand whether the sentiment conveyed in the text is positive, negative, or neutral.
